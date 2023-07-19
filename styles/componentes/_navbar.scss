@@ -10,9 +10,9 @@ nav {
                 text-decoration: none;
                 text-transform: uppercase;
                 font-weight: bold;
-                color: $cor-secundaria;
+                color: $cor-terciaria;
                 &:hover {
-                    border-bottom:  2px solid $cor-terciaria;
+                    border-bottom:  2px solid $cor-primaria;
                 }
             }
         }
